@@ -30,7 +30,12 @@ My ultimate goal is to design intuitive and aesthetic interfaces that solve real
 
 ## ☎️ Contact Me
 <p align="left">
-  <a href="mailto:lucy.lee@mail.utoronto.ca"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:lucy.lee@mail.utoronto.ca">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lucylee105">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <!--
