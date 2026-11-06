@@ -1,54 +1,45 @@
-## 👋 About Me
-Hi, I'm Lucy, a passionate student currently focusing on creating human-centered digital experiences. I am a 3rd year student studying New Media, Statistics, and Economics at University of Toronto Scarborough, with a huge interest in UX/UI design and Product design, especially how to make people understand and access technology easier.
+# 👋 About Me
 
-My ultimate goal is to design intuitive and aesthetic interfaces that solve real-world problems and improve daily lives. I am always eager to learn new design trends and collaborate on creative projects.
+Hi, I'm Lucy! I'm an undergraduate student studying **New Media**, **Statistics**, and **Economics** at the University of Toronto Scarborough with Huge Interest in UX/UI design and Product Deisgn. I focus on bridging UI/UX design with frontend engineering to turn complex user problems into clean, accessible digital products.
 
-## 🛠 Tech Stacks
+- 🛠️ Currently building **UofT Pathfinder** (Academic Planning Tool) & shipping responsive web tools.
+- 💡 Passionate about design systems, human-centered interfaces, and data-driven product decisions.
+- 📫 Reach me via [LinkedIn](https://linkedin.com/in/lucylee105) or email at **lucy.lee@mail.utoronto.ca**.
 
-### 🎨 Design & Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+---
 
-### 💻 Backend & Data Science
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=Supabase&logoColor=white"/>
-</p>
+### 🚀 Featured Projects
 
-### ⚙️ Tools & Version Control
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+- **[Roomie Receipts](https://roomie-receipts.pages.dev/)** — Zero-login shared living expense splitter built with React, Vite, Supabase, and custom retro UI.
+- **UofT Pathfinder** — Interactive, node-based degree planning tool designed in Figma and powered by Supabase Auth.
 
-## ☎️ Contact Me
-<p align="left">
-  <a href="mailto:lucy.lee@mail.utoronto.ca">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lucylee105">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+---
 
-<!--
-**lucy2sy/lucy2sy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stacks
 
-Here are some ideas to get you started:
+#### 🎨 Design & Prototyping
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe CC](https://img.shields.io/badge/Adobe%20CC-DA1F26?style=for-the-badge&logo=adobe&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Frontend & Styling
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🗄️ Backend, Data & Tools
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📬 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucylee105)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucy.lee@mail.utoronto.ca)
