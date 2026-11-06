@@ -1,5 +1,5 @@
 ## 👋 About Me
-Hi, I'm Lucy, a passionate student currently focusing on creating human-centered digital experiences. I am a 2nd year student studying New Media, Statistics, and Economics at University of Toronto Scarborough, with a deep interest in how design can bridge the gap between technology and people.
+Hi, I'm Lucy, a passionate student currently focusing on creating human-centered digital experiences. I am a 3rd year student studying New Media, Statistics, and Economics at University of Toronto Scarborough, with a huge interest in UX/UI design and Product design, especially how to make people understand and access technology easier.
 
 My ultimate goal is to design intuitive and aesthetic interfaces that solve real-world problems and improve daily lives. I am always eager to learn new design trends and collaborate on creative projects.
 
